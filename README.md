@@ -1,5 +1,5 @@
 # 💫 About Me:
-I  am Atharv Khare, I am a college student at Indraprastha Institute of Information Technology Delhi. I am a first year B.Tech in Computer Science and Artificial Inteligence student.<br><br>🐍 I’m have basic knowledge of python and libraries like numpy and pandas<br>🌱 I also am correctly learning Data structures and Algorithms coding in C and C++<br>👍 I have knowledge on basic html css and java script<br>🔭 I’m currently working on Introduction to Machine Learning and NLP
+I  am Atharv Khare, I am a college student at Indraprastha Institute of Information Technology Delhi. I am a first year B.Tech in Computer Science and Artificial Inteligence student.<br><br>🐍 I’m have basic knowledge of python and libraries like numpy and pandas<br>🌱 I also am currently learning Data structures and Algorithms coding in C and C++<br>👍 I have knowledge on basic html css and java script<br>🔭 I’m currently working on Introduction to Machine Learning and NLP
 
 
 ## 🌐 Socials:
